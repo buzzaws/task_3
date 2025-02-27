@@ -5,6 +5,10 @@ i)SSH into the EC2 instance.
 
 ssh -i Assign.pem ubuntu@34.230.4.107
 
+#########   Docker Hub Rehistry Url  ##################
+
+https://hub.docker.com/repository/docker/buzzeraws/assignment/tags/latest/sha256-f1e48b7328cc7d07c26f4d9387459c443ed65a0cd9817dac9896d50d9e8c63f6
+
 ii)Install Docker and pull the Docker image from Docker Hub or AWS ECR.
 
 docker pull buzzeraws/assignment:latest
