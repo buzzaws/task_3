@@ -5,7 +5,7 @@ i)SSH into the EC2 instance.
 
 ssh -i Assign.pem ubuntu@34.230.4.107
 
-#########   Docker Hub Rehistry Url  ##################
+#########   Docker Hub Registry Url  ##################
 
 https://hub.docker.com/repository/docker/buzzeraws/assignment/tags/latest/sha256-f1e48b7328cc7d07c26f4d9387459c443ed65a0cd9817dac9896d50d9e8c63f6
 
